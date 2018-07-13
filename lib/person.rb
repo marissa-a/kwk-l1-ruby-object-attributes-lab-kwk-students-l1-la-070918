@@ -22,5 +22,4 @@ class Person
   end
 end
 
-puts Person
     
