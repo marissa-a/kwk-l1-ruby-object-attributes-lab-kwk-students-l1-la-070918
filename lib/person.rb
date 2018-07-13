@@ -6,7 +6,7 @@ class Person
   end
   
   def name
-    @name="Matt"
+    @name="Beyonce"
   end
   
   def name=(new_name)
