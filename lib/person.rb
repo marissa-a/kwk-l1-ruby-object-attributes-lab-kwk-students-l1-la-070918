@@ -14,7 +14,7 @@ class Person
   end
   
   def job
-    @job="Plumber"
+    @job="Singer"
   end
   
   def job=(new_job)
